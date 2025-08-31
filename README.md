@@ -1,2 +1,2 @@
-# An-lisis-McDonald-s
+# Analisis-McDonald-s
 Con este proyecto de Data Science quiero dar mi primer paso en este mundo de los datos. Como primer paso estara lleno de errores y fallos, pero también de mucha ilusión y  ganas. En este proyecto hemos hecho limpieza de datos, tratamiento de nulos y outliers. Hemos realizado un análisis financiero de la compañía y un predicción de futuro.
