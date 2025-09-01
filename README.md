@@ -14,9 +14,9 @@ Se parte de información financiera histórica de la compañía y se aplican té
 
 - Implementar modelos de predicción:
 
-- Regresión Lineal
+- Regresión Lineal.
 
-- Random Forest Regressor
+- Random Forest Regressor.
 
 - Generar una estimación del Net Income para 2025.
 
@@ -28,11 +28,11 @@ Se parte de información financiera histórica de la compañía y se aplican té
 
 - Librerías principales:
 
-  - pandas, numpy → manipulación y análisis de datos
+  - pandas, numpy → manipulación y análisis de datos.
 
-  - matplotlib, seaborn → visualización de datos
+  - matplotlib, seaborn → visualización de datos.
 
-  - scikit-learn → modelos de Machine Learning
+  - scikit-learn → modelos de Machine Learning.
 
 ## 📊 Resultados principales
 
@@ -60,6 +60,6 @@ Proyecto desarrollado por Alejandro Villa Estada como ejercicio de análisis de 
 
 ## 📞 Contacto
 
-- 💼Linkedin: www.linkedin.com/in/alexvillaestada
+- 💼 Linkedin: www.linkedin.com/in/alexvillaestada
 
-- ✉️Gmail: alexvillaestada@gmail.com
+- ✉️ Gmail: alexvillaestada@gmail.com
